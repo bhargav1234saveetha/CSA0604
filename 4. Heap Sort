@@ -1,6 +1,0 @@
-def heap_sort(a):
-    a.sort()
-    return a
-
-a = [5, 3, 4, 1, 2]
-print(heap_sort(a))
